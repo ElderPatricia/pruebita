@@ -8,5 +8,6 @@ def average(nums):
     float: promedio de los números.
     """
     return sum(nums) / len(nums)
+    print (sum)
 print(average([2,5,7]))
 
